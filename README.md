@@ -1,4 +1,4 @@
-# Der Feind ist riesig, wir springen 🔪
+# Der Feind ist riesig, aber wir springen können🔪
 
 <!--
 **connormxfadden/connormxfadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
